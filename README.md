@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Lab 10: Airflow
 
 Trong bài lab này, bạn sẽ học cách sử dụng Apache Airflow để cấu hình, lên lịch và chạy các Pipeline thông qua các Operator cơ bản (`BashOperator`, `PythonOperator`, `BranchPythonOperator`, `PostgresOperator`, v.v.).
@@ -88,3 +89,6 @@ Sử dụng dữ liệu từ [D&amp;D 5e API](https://www.dnd5eapi.co/docs/). Đ
    ```bash
    docker-compose exec postgres psql -U airflow -d airflow -c "SELECT * FROM dnd_characters;"
    ```
+=======
+# Module2_airflow
+>>>>>>> 713407d913bdd666a601549393ba7eddb45b1dc7
